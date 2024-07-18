@@ -1,7 +1,7 @@
 # Automated-Web-Scraping
 Price monitoring of Crypto-Bitcoin using Web Scraping in Python
 
-# Fossil Watch Price Tracker
+# Bitcoin Price Tracker
 
 ## Table of Contents
  - [Introduction](#introduction)
