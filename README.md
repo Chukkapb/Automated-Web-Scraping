@@ -4,13 +4,13 @@ Price monitoring of Crypto-Bitcoin using Web Scraping in Python
 # Fossil Watch Price Tracker
 
 ## Table of Contents
- 1.[Introduction](#introduction)
- 2. [Project Description](#project-description)
- 3. [Prerequisites](#prerequisites)
- 4. [Getting Started](#getting-started)
- 5. [How It Works](#how-it-works)
- 6. [Usage](#usage)
- 7. [Contributing](#contributing)
+ - [Introduction](#introduction)
+ - [Project Description](#project-description)
+ - [Prerequisites](#prerequisites)
+ - [Getting Started](#getting-started)
+ - [How It Works](#how-it-works)
+ - [Usage](#usage)
+ - [Contributing](#contributing)
 
 ## Introduction
 This Python project demonstrates how to scrape product information from a website and track the price changes of the crypto product. In this case, we are tracking the price of a crypto currency-Bitcoin on the coinmarketcap.com website
